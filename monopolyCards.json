@@ -1,0 +1,717 @@
+[{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c06"
+  },
+  "cardId": "mediterraneanavenue",
+  "color": "#825236",
+  "name": "Mediterranean Avenue",
+  "rent": 2,
+  "monopolyRent": 4,
+  "buildings": [
+    10,
+    30,
+    90,
+    160,
+    250,
+    750
+  ],
+  "mortgage": 30,
+  "houseCost": 50,
+  "hotelCost": 50,
+  "price": 60
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c07"
+  },
+  "cardId": "balticavenue",
+  "color": "#825236",
+  "name": "Baltic Avenue",
+  "rent": 4,
+  "monopolyRent": 8,
+  "buildings": [
+    20,
+    60,
+    180,
+    320,
+    450,
+    950
+  ],
+  "mortgage": 30,
+  "houseCost": 50,
+  "hotelCost": 50,
+  "price": 60
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c08"
+  },
+  "cardId": "arcticavenue",
+  "color": "#825236",
+  "name": "Arctic Avenue",
+  "rent": 5,
+  "monopolyRent": 10,
+  "buildings": [
+    30,
+    80,
+    240,
+    360,
+    450,
+    950
+  ],
+  "mortgage": 40,
+  "houseCost": 50,
+  "hotelCost": 50,
+  "price": 80
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c09"
+  },
+  "cardId": "massachusettsavenue",
+  "color": "#80ccff",
+  "name": "Massachusetts Avenue",
+  "rent": 6,
+  "monopolyRent": 12,
+  "buildings": [
+    30,
+    90,
+    270,
+    400,
+    550,
+    1050
+  ],
+  "mortgage": 50,
+  "houseCost": 50,
+  "hotelCost": 50,
+  "price": 100
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c0a"
+  },
+  "cardId": "orientalavenue",
+  "color": "#80ccff",
+  "name": "Oriental Avenue",
+  "rent": 6,
+  "monopolyRent": 12,
+  "buildings": [
+    30,
+    90,
+    270,
+    400,
+    550,
+    1050
+  ],
+  "mortgage": 50,
+  "houseCost": 50,
+  "hotelCost": 50,
+  "price": 100
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c0b"
+  },
+  "cardId": "vermontavenue",
+  "color": "#80ccff",
+  "name": "Vermont Avenue",
+  "rent": 6,
+  "monopolyRent": 12,
+  "buildings": [
+    30,
+    90,
+    270,
+    400,
+    550,
+    1050
+  ],
+  "mortgage": 50,
+  "houseCost": 50,
+  "hotelCost": 50,
+  "price": 100
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c0c"
+  },
+  "cardId": "connecticutavenue",
+  "color": "#80ccff",
+  "name": "Connecticut Avenue",
+  "rent": 8,
+  "monopolyRent": 16,
+  "buildings": [
+    40,
+    100,
+    300,
+    450,
+    600,
+    1100
+  ],
+  "mortgage": 60,
+  "houseCost": 50,
+  "hotelCost": 50,
+  "price": 120
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c0d"
+  },
+  "cardId": "marylandavenue",
+  "color": "#ff69b4",
+  "name": "Maryland Avenue",
+  "rent": 10,
+  "monopolyRent": 20,
+  "buildings": [
+    50,
+    150,
+    450,
+    625,
+    750,
+    1250
+  ],
+  "mortgage": 70,
+  "houseCost": 100,
+  "hotelCost": 100,
+  "price": 140
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c0e"
+  },
+  "cardId": "stcharlesplace",
+  "color": "#ff69b4",
+  "name": "St. Charles Place",
+  "rent": 10,
+  "monopolyRent": 20,
+  "buildings": [
+    50,
+    150,
+    450,
+    625,
+    750,
+    1250
+  ],
+  "mortgage": 70,
+  "houseCost": 100,
+  "hotelCost": 100,
+  "price": 140
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c0f"
+  },
+  "cardId": "statesavenue",
+  "color": "#ff69b4",
+  "name": "States Avenue",
+  "rent": 10,
+  "monopolyRent": 20,
+  "buildings": [
+    50,
+    150,
+    450,
+    625,
+    750,
+    1250
+  ],
+  "mortgage": 70,
+  "houseCost": 100,
+  "hotelCost": 100,
+  "price": 140
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c10"
+  },
+  "cardId": "virginiaavenue",
+  "color": "#ff69b4",
+  "name": "Virginia Avenue",
+  "rent": 12,
+  "monopolyRent": 24,
+  "buildings": [
+    60,
+    180,
+    500,
+    700,
+    900,
+    1400
+  ],
+  "mortgage": 80,
+  "houseCost": 100,
+  "hotelCost": 100,
+  "price": 160
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c11"
+  },
+  "cardId": "stjamesplace",
+  "color": "#ff8000",
+  "name": "St. James Place",
+  "rent": 14,
+  "monopolyRent": 28,
+  "buildings": [
+    70,
+    200,
+    550,
+    750,
+    950,
+    1450
+  ],
+  "mortgage": 90,
+  "houseCost": 100,
+  "hotelCost": 100,
+  "price": 180
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c12"
+  },
+  "cardId": "tennesseeavenue",
+  "color": "#ff8000",
+  "name": "Tennessee Avenue",
+  "rent": 14,
+  "monopolyRent": 28,
+  "buildings": [
+    70,
+    200,
+    550,
+    750,
+    950,
+    1450
+  ],
+  "mortgage": 90,
+  "houseCost": 100,
+  "hotelCost": 100,
+  "price": 180
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c13"
+  },
+  "cardId": "newyorkavenue",
+  "color": "#ff8000",
+  "name": "New York Avenue",
+  "rent": 16,
+  "monopolyRent": 32,
+  "buildings": [
+    80,
+    220,
+    600,
+    800,
+    1000,
+    1500
+  ],
+  "mortgage": 100,
+  "houseCost": 100,
+  "hotelCost": 100,
+  "price": 200
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c14"
+  },
+  "cardId": "newjerseyavenue",
+  "color": "#ff8000",
+  "name": "New Jersey Avenue",
+  "rent": 16,
+  "monopolyRent": 32,
+  "buildings": [
+    80,
+    220,
+    600,
+    800,
+    1000,
+    1500
+  ],
+  "mortgage": 100,
+  "houseCost": 100,
+  "hotelCost": 100,
+  "price": 200
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c15"
+  },
+  "cardId": "kentuckyavenue",
+  "color": "#ff0000",
+  "name": "Kentucky Avenue",
+  "rent": 18,
+  "monopolyRent": 36,
+  "buildings": [
+    90,
+    250,
+    700,
+    875,
+    1050,
+    2050
+  ],
+  "mortgage": 110,
+  "houseCost": 150,
+  "hotelCost": 150,
+  "price": 220
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c16"
+  },
+  "cardId": "indianaavenue",
+  "color": "#ff0000",
+  "name": "Indiana Avenue",
+  "rent": 18,
+  "monopolyRent": 36,
+  "buildings": [
+    90,
+    250,
+    700,
+    875,
+    1050,
+    2050
+  ],
+  "mortgage": 110,
+  "houseCost": 150,
+  "hotelCost": 150,
+  "price": 220
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c17"
+  },
+  "cardId": "illinoisavenue",
+  "color": "#ff0000",
+  "name": "Illinois Avenue",
+  "rent": 20,
+  "monopolyRent": 40,
+  "buildings": [
+    100,
+    300,
+    750,
+    925,
+    1100,
+    2100
+  ],
+  "mortgage": 120,
+  "houseCost": 150,
+  "hotelCost": 150,
+  "price": 240
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c18"
+  },
+  "cardId": "michiganavenue",
+  "color": "#ff0000",
+  "name": "Michigan Avenue",
+  "rent": 20,
+  "monopolyRent": 40,
+  "buildings": [
+    100,
+    300,
+    750,
+    925,
+    1100,
+    2100
+  ],
+  "mortgage": 120,
+  "houseCost": 150,
+  "hotelCost": 150,
+  "price": 240
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c19"
+  },
+  "cardId": "atlanticavenue",
+  "color": "#ffff00",
+  "name": "Atlantic Avenue",
+  "rent": 22,
+  "monopolyRent": 44,
+  "buildings": [
+    110,
+    330,
+    800,
+    975,
+    1150,
+    2150
+  ],
+  "mortgage": 130,
+  "houseCost": 150,
+  "hotelCost": 150,
+  "price": 260
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c1a"
+  },
+  "cardId": "ventnoravenue",
+  "color": "#ffff00",
+  "name": "Ventnor Avenue",
+  "rent": 22,
+  "monopolyRent": 44,
+  "buildings": [
+    110,
+    330,
+    800,
+    975,
+    1150,
+    2150
+  ],
+  "mortgage": 130,
+  "houseCost": 150,
+  "hotelCost": 150,
+  "price": 260
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c1b"
+  },
+  "cardId": "marvingardens",
+  "color": "#ffff00",
+  "name": "Marvin Gardens",
+  "rent": 24,
+  "monopolyRent": 48,
+  "buildings": [
+    120,
+    360,
+    850,
+    1025,
+    1200,
+    2200
+  ],
+  "mortgage": 140,
+  "houseCost": 150,
+  "hotelCost": 150,
+  "price": 280
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c1c"
+  },
+  "cardId": "californiaavenue",
+  "color": "#ffff00",
+  "name": "California Avenue",
+  "rent": 24,
+  "monopolyRent": 48,
+  "buildings": [
+    120,
+    360,
+    850,
+    1025,
+    1200,
+    2200
+  ],
+  "mortgage": 140,
+  "houseCost": 150,
+  "hotelCost": 150,
+  "price": 280
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c1d"
+  },
+  "cardId": "pacificavenue",
+  "color": "#008000",
+  "name": "Pacific Avenue",
+  "rent": 26,
+  "monopolyRent": 52,
+  "buildings": [
+    130,
+    390,
+    900,
+    1100,
+    1275,
+    2275
+  ],
+  "mortgage": 150,
+  "houseCost": 200,
+  "hotelCost": 200,
+  "price": 300
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c1e"
+  },
+  "cardId": "southcarolinaavenue",
+  "color": "#008000",
+  "name": "South Carolina Avenue",
+  "rent": 26,
+  "monopolyRent": 52,
+  "buildings": [
+    130,
+    390,
+    900,
+    1100,
+    1275,
+    2275
+  ],
+  "mortgage": 150,
+  "houseCost": 200,
+  "hotelCost": 200,
+  "price": 300
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c1f"
+  },
+  "cardId": "northcarolinaavenue",
+  "color": "#008000",
+  "name": "North Carolina Avenue",
+  "rent": 26,
+  "monopolyRent": 52,
+  "buildings": [
+    130,
+    390,
+    900,
+    1100,
+    1275,
+    2275
+  ],
+  "mortgage": 150,
+  "houseCost": 200,
+  "hotelCost": 200,
+  "price": 300
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c20"
+  },
+  "cardId": "pennsylvaniaavenue",
+  "color": "#008000",
+  "name": "Pennsylvania Avenue",
+  "rent": 28,
+  "monopolyRent": 56,
+  "buildings": [
+    150,
+    450,
+    1000,
+    1200,
+    1400,
+    2400
+  ],
+  "mortgage": 160,
+  "houseCost": 200,
+  "hotelCost": 200,
+  "price": 320
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c21"
+  },
+  "cardId": "floridaavenue",
+  "color": "#0072bc",
+  "name": "Florida Avenue",
+  "rent": 35,
+  "monopolyRent": 70,
+  "buildings": [
+    175,
+    500,
+    1100,
+    1300,
+    1500,
+    2500
+  ],
+  "mortgage": 175,
+  "houseCost": 200,
+  "hotelCost": 200,
+  "price": 350
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c22"
+  },
+  "cardId": "parkplace",
+  "color": "#0072bc",
+  "name": "Park Place",
+  "rent": 35,
+  "monopolyRent": 70,
+  "buildings": [
+    175,
+    500,
+    1100,
+    1300,
+    1500,
+    2500
+  ],
+  "mortgage": 175,
+  "houseCost": 200,
+  "hotelCost": 200,
+  "price": 350
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c23"
+  },
+  "cardId": "boardwalk",
+  "color": "#0072bc",
+  "name": "Boardwalk",
+  "rent": 50,
+  "monopolyRent": 100,
+  "buildings": [
+    200,
+    600,
+    1400,
+    1700,
+    2000,
+    3000
+  ],
+  "mortgage": 200,
+  "houseCost": 200,
+  "hotelCost": 200,
+  "price": 400
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c24"
+  },
+  "cardId": "readingrailroad",
+  "color": "#241f21",
+  "name": "Reading Railroad",
+  "rent": [
+    25,
+    50,
+    100,
+    200
+  ],
+  "mortgage": 100,
+  "price": 200
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c25"
+  },
+  "cardId": "pennsylvaniarailroad",
+  "color": "#241f21",
+  "name": "Pennsylvania Railroad",
+  "rent": [
+    25,
+    50,
+    100,
+    200
+  ],
+  "mortgage": 100,
+  "price": 200
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c26"
+  },
+  "cardId": "bandorailroad",
+  "color": "#241f21",
+  "name": "B. & O. Railroad",
+  "rent": [
+    25,
+    50,
+    100,
+    200
+  ],
+  "mortgage": 100,
+  "price": 200
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c27"
+  },
+  "cardId": "shortline",
+  "color": "#241f21",
+  "name": "Short Line",
+  "rent": [
+    25,
+    50,
+    100,
+    200
+  ],
+  "mortgage": 100,
+  "price": 200
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c28"
+  },
+  "cardId": "electriccompany",
+  "color": "#241f21",
+  "name": "Electry Company",
+  "rent": [
+    4,
+    10
+  ],
+  "mortgage": 75,
+  "price": 150
+},{
+  "_id": {
+    "$oid": "61e1a69fdd510ebae25e9c29"
+  },
+  "cardId": "waterworks",
+  "color": "#241f21",
+  "name": "Water Works",
+  "rent": [
+    4,
+    10
+  ],
+  "mortgage": 75,
+  "price": 150
+}]
